@@ -1,3 +1,3 @@
 # First2DGame
-Solo Project.
-This is a solo game development project.
+Solo game development project.
+This is a 2D pixel game with animated player character and an animated map movement.
